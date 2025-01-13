@@ -1,0 +1,10 @@
+//GIT REPO
+https://github.com/wp-bootstrap/wp-bootstrap-navwalker
+BOOTSTRAP 4
+https://www.yogihosting.com/integrate-bootstrap-menu-wordpress-website/
+BOOTSTRAP 5
+https://wpknifer.com/wordpress-navigation-menu/
+Jquery Toast Plugin
+https://kamranahmed.info/toast
+google recaptcha sample
+https://www.geeksforgeeks.org/google-recaptcha-integration-in-php/
