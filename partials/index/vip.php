@@ -1,7 +1,6 @@
-
 <!-- ============================ vip Start ================================== -->
 <section class="bg-light">
-    <div class="container">-->
+    <div class="container">
         <!-- ============================ Page Title Start================================== -->
         <div class="page-title mb-5">
             <div class="row">
@@ -13,7 +12,7 @@
         <!-- ============================ Page Title End ================================== -->
         <div class="row"
             <!-- Single Package -->
-           <div class="col-lg-4 col-md-4">
+            <div class="col-lg-4 col-md-4">
                 <div class="packages_wrapping bg-white">
                     <div class="packages_headers">
                         <i class="lni-layers"></i>
@@ -33,13 +32,13 @@
                     <div class="packages_bottombody">
                         <a href="#" class="btn-pricing">انتخاب</a>
                     </div>
-                
+
                 </div>
             </div>
             <!-- Single Package -->
-        <div class="col-lg-4 col-md-4">
+            <div class="col-lg-4 col-md-4">
                 <div class="packages_wrapping recommended">
-                    
+
                     <div class="packages_headers">
                         <i class="lni-diamond"></i>
                         <h4 class="packages_pr_title">پکیج نقره ای</h4>
@@ -58,14 +57,14 @@
                     <div class="packages_bottombody">
                         <a href="#" class="btn-pricing">انتخاب</a>
                     </div>
-                
+
                 </div>
             </div>
-            
+
             <!-- Single Package -->
-        <div class="col-lg-4 col-md-4">
+            <div class="col-lg-4 col-md-4">
                 <div class="packages_wrapping bg-white">
-                    
+
                     <div class="packages_headers">
                         <i class="lni-invention"></i>
                         <h4 class="packages_pr_title">پکیج طلایی</h4>
@@ -84,12 +83,12 @@
                     <div class="packages_bottombody">
                         <a href="#" class="btn-pricing">انتخاب</a>
                     </div>
-                
+
                 </div>
             </div>
 
         </div>
-    
+
     </div>
 
 </section>
